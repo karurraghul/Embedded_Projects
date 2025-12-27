@@ -3,9 +3,9 @@
 A curated collection of embedded systems projects organized by microcontroller family (8051, ARM7, AVR, PIC16, PIC18). Each project includes source code, IDE project files, and (where applicable) Proteus simulation files.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/svg/cpu.svg" width="44" height="44" alt="CPU" title="Microcontrollers" />
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/svg/circuit-board.svg" width="44" height="44" alt="Circuit board" title="Peripherals + protocols" />
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/svg/terminal-2.svg" width="44" height="44" alt="Code" title="C + Assembly" />
+  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/cpu.svg" width="44" height="44" alt="CPU" title="Microcontrollers" />
+  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/circuit-board.svg" width="44" height="44" alt="Circuit board" title="Peripherals + protocols" />
+  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/terminal-2.svg" width="44" height="44" alt="Code" title="C + Assembly" />
 </div>
 
 <div align="center">
@@ -99,7 +99,7 @@ A curated collection of embedded systems projects organized by microcontroller f
 Tip: Expand only the family you care about. Each row links straight into the project folder.
 
 <details open>
-<summary><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microchiptechnology.svg" width="14" height="14" alt="Microchip" title="Microchip Technology" /> <strong>8051 (AT89C51)</strong> - 7 projects - ADC/LCD/LED fundamentals</summary>
+<summary><img src="https://cdn.simpleicons.org/microchiptechnology" width="14" height="14" alt="Microchip" title="Microchip Technology" /> <strong>8051 (AT89C51)</strong> - 7 projects - ADC/LCD/LED fundamentals</summary>
 
 | Project | What it demonstrates | Key tech |
 |:--|:--|:--|
@@ -114,7 +114,7 @@ Tip: Expand only the family you care about. Each row links straight into the pro
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arm.svg" width="14" height="14" alt="ARM" title="ARM" /> <strong>ARM7 (LPC2138)</strong> - 8 projects - protocols + sensors</summary>
+<summary><img src="https://cdn.simpleicons.org/arm" width="14" height="14" alt="ARM" title="ARM" /> <strong>ARM7 (LPC2138)</strong> - 8 projects - protocols + sensors</summary>
 
 | Project | What it demonstrates | Key tech |
 |:--|:--|:--|
@@ -130,7 +130,7 @@ Tip: Expand only the family you care about. Each row links straight into the pro
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atmel.svg" width="14" height="14" alt="Atmel" title="Atmel (AVR ecosystem)" /> <strong>AVR</strong> - 1 project - GPIO baseline</summary>
+<summary><img src="https://cdn.simpleicons.org/microchiptechnology" width="14" height="14" alt="Microchip" title="Microchip (AVR ecosystem)" /> <strong>AVR</strong> - 1 project - GPIO baseline</summary>
 
 | Project | What it demonstrates | Key tech |
 |:--|:--|:--|
@@ -139,7 +139,7 @@ Tip: Expand only the family you care about. Each row links straight into the pro
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microchiptechnology.svg" width="14" height="14" alt="Microchip" title="Microchip Technology" /> <strong>PIC16</strong> - 7 projects - displays + PWM + motors</summary>
+<summary><img src="https://cdn.simpleicons.org/microchiptechnology" width="14" height="14" alt="Microchip" title="Microchip Technology" /> <strong>PIC16</strong> - 7 projects - displays + PWM + motors</summary>
 
 | Project | What it demonstrates | Key tech |
 |:--|:--|:--|
@@ -154,7 +154,7 @@ Tip: Expand only the family you care about. Each row links straight into the pro
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microchiptechnology.svg" width="14" height="14" alt="Microchip" title="Microchip Technology" /> <strong>PIC18</strong> - 8 projects - SPI/I2C + LCD/ADC</summary>
+<summary><img src="https://cdn.simpleicons.org/microchiptechnology" width="14" height="14" alt="Microchip" title="Microchip Technology" /> <strong>PIC18</strong> - 8 projects - SPI/I2C + LCD/ADC</summary>
 
 | Project | What it demonstrates | Key tech |
 |:--|:--|:--|

@@ -3,8 +3,8 @@
 This catalog is optimized for fast GitHub browsing: jump links, collapsible families, and consistent mini-cards for each project.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/svg/book-2.svg" width="36" height="36" alt="Catalog" title="Project catalog" />
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/svg/search.svg" width="36" height="36" alt="Search" title="Browse by family or technology" />
+  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/book-2.svg" width="36" height="36" alt="Catalog" title="Project catalog" />
+  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/search.svg" width="36" height="36" alt="Search" title="Browse by family or technology" />
 </div>
 
 <div align="center">
