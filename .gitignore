@@ -1,0 +1,57 @@
+# Build Artifacts
+Objects/
+Listings/
+Debug/
+*.hex
+*.obj
+*.axf
+*.cof
+*.o
+*.elf
+*.eep
+*.srec
+*.lst
+*.map
+*.build_log.htm
+*.htm
+
+# User-specific IDE files
+*.uvgui.*
+*.workspace
+*.bak
+*.pdsbak
+
+# Intermediate build files
+*.dep
+*.crf
+*.d
+*.lnp
+*.p1
+*.pre
+*.i
+*.err
+*.rlf
+*.sdb
+*.sym
+*.hxl
+funclist
+
+# IDE-specific temporary files
+*.mcp
+*.mcs
+*.mcw
+*.atsln
+*.cproj
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
