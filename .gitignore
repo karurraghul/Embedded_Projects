@@ -40,8 +40,6 @@ funclist
 *.mcp
 *.mcs
 *.mcw
-*.atsln
-*.cproj
 
 # OS files
 .DS_Store
